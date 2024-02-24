@@ -31,21 +31,14 @@ KidSense utilizes state-of-the-art machine learning techniques and datasets:
 
 ## Contributing
 
-We welcome contributions from the community to further enhance KidSense. Please review our [contribution guidelines](CONTRIBUTING.md) before getting started.
+We welcome contributions from the community to further enhance KidSense. 
 
 ## Code of Conduct
 
 We enforce a Code of Conduct to ensure a respectful and inclusive community. Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our expectations for behavior.
 
-## Security
-
-If you discover any security vulnerabilities in KidSense, please report them to our security team at [security@yourkidssense.com](mailto:security@yourkidssense.com). We take security seriously and appreciate your assistance in keeping KidSense secure.
-
-## License
-
-KidSense is licensed under the [MIT License](LICENSE), allowing for free use and modification of the codebase.
 
 ## Support
 
-For any inquiries or support requests, please contact us at [support@yourkidssense.com](mailto:support@yourkidssense.com). We are here to help you make the most of KidSense!
+For any inquiries or support requests, please contact us at [hayanjaber6@gmail.com](mailto:hayanjaber6@gmail.com). We are here to help you make the most of KidSense!
 
