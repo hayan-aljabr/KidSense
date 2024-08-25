@@ -4,7 +4,7 @@
 
 ## Introduction
 
-KidSense is a revolutionary application designed to assist parents with hearing impairments or disabilities. This innovative solution utilizes cutting-edge neural network models, including Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN), and CRNN (CNN-RNN), coupled with the ESC-50 dataset containing over 2000 environmental sounds. Additionally, we leverage the pre-trained YamNet model to extract features from the sound data.
+KidSense is an application designed to assist parents with hearing impairments or disabilities. This innovative solution utilizes cutting-edge neural network models, including Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN), and CRNN (CNN-RNN), coupled with the ESC-50 dataset containing over 2000 environmental sounds. Additionally, we leverage the pre-trained YamNet model to extract features from the sound data.
 
 ## Key Features
 
